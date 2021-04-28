@@ -16,4 +16,4 @@
   * Existe uma versão que não precisa de display e push-buttons, apenas de um sensor infravermelho e o controle
 
 ## Demo
-https://www.tinkercad.com/things/e1dijQaSjP9
+https://www.tinkercad.com/things/4fiOQXDcxFn-jogo-da-memoria
