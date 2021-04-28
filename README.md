@@ -1,5 +1,4 @@
-# Projeto final da disciplina de Lógica de Programação - IFSC
-  Autores: Geovane Schmitz e Pamela Fialho
+
 
 ## Objetivo do jogo
   O jogo consiste em visualizar uma sequência de LEDs e repiti-las com os botões, ganha quem consguir acerta o maior número de sequências
