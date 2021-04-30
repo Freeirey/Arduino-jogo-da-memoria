@@ -16,3 +16,4 @@
 
 ## Demo
 https://www.tinkercad.com/things/4fiOQXDcxFn-jogo-da-memoria
+https://www.tinkercad.com/things/4fiOQXDcxFn-jogo-da-memoria/editel
