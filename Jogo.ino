@@ -1,7 +1,6 @@
-/*Projeto final da disciplina de Lógica de Programação - IFSC
-  Autores: Geovane Schmitz e Pamela Fialho
-  Turma: 622
-  Data: 08/09/2020
+/*Projeto final do jogo da memória
+  Aluno: Mike Vildoso Freire
+  Turma: 2TDS-F
   Função: Jogo da memória utilizando botões e LEDs, onde o usuário deve repetir a sequência de LEDs acesos através da ativação dos botões correspondentes*/
 
 //Adicionando as bibliotecas
