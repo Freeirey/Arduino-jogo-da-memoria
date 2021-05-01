@@ -12,7 +12,6 @@
 ## Observações
   * O display não é fundamental para o funcionamento do jogo, sendo assim, você pode remover caso não tenha ou não queria utilizar.
   * Você pode adicionar ou remover mais leds ou botões com pouca alteração no código do jogo.
-  * Existe uma versão que não precisa de display e push-buttons, apenas de um sensor infravermelho e o controle
 
 ## Demo
 https://www.tinkercad.com/things/4fiOQXDcxFn-jogo-da-memoria/editel
